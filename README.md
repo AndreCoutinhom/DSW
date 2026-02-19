@@ -4,7 +4,8 @@
 
 ### Comandos
 
-* `npm init -y` inicia o projeto (lembre-se de colocar o terminal em modo CMD ao invés do PS padrão).
+* `npm init -y` inicia o projeto
+  > Lembre-se de colocar o terminal em modo CMD ao invés do PS padrão.
 * `npm i express` para instalar o pacote express, que permite que o javascript funcione como um criador de API.
 * `node file.js` lança a API criada em javascript.
 
